@@ -1,0 +1,7 @@
+# Exclude everything
+/*
+# But include specific files and directories
+!package.json
+!index.js
+!node_modules/
+!src/
